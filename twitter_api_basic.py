@@ -6,7 +6,7 @@ class Client():
     def __init__(self,
         api_key="REDACTED",
         api_secret="REDACTED",
-        access_token_key="REDACTED-GK9wTiFeQQ84J4Ceo17XLoWhnAdJIk3",
+        access_token_key="REDACTED",
         access_token_secret="REDACTED"
                  ):
 

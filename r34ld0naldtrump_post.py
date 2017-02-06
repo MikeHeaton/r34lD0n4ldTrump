@@ -1,6 +1,6 @@
 #! /anaconda/bin/python
 # -*- coding: utf-8 -*-
 
-import trumpscrape
+import scrape
 
 trumpscrape.runall()

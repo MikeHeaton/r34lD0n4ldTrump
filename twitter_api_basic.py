@@ -4,10 +4,10 @@ from requests_oauthlib import OAuth1
 
 class Client():
     def __init__(self,
-        api_key="Gl6ybatPrEnDlPA5AHEXfVctR",
-        api_secret="4eyCMpemZqZZb193JBmN4OMxxQBR6xLEwCTLf8756teBOkxO9P",
-        access_token_key="790661882449461254-GK9wTiFeQQ84J4Ceo17XLoWhnAdJIk3",
-        access_token_secret="Lf9iqEiL2TixrQ0jHtbctOHVqSkO7BQ6wa8hSky83wMF0"
+        api_key="REDACTED",
+        api_secret="REDACTED",
+        access_token_key="REDACTED",
+        access_token_secret="REDACTED"
                  ):
 
         self.api_key = api_key
